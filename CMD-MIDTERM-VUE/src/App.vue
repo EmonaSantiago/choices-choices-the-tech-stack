@@ -1,12 +1,13 @@
-<script setup>
-import { RouterLink, RouterView } from 'vue-router'
-import Header from './components/Header.vue'
+<script>
+export default {
+  data() {
+    return {
+      message: 'Hey Emona'
+    }
+  }
+}
 </script>
 
 <template>
-  <header/> 
-  <RouterView/>
-  <footer/>
+   <h1>{{ message }}</h1>
 </template>
-  
-
