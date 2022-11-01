@@ -155,7 +155,7 @@ export default {
     padding: 3rem;
     gap: 1rem;
     display: grid;
-    grid-template-columns: 50em 50em ;
+    grid-template-columns: 40em 30em ;
     grid-template-rows: auto;
     grid-template-areas: "main";
     background-color:  #FFF021;
@@ -191,8 +191,7 @@ export default {
     text-align: center;
     padding: 3rem 0;
     position: relative;
-
   }
 
-
 </style>
+
