@@ -2,8 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# CMD-MIDTERM
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+<img width="500" alt="Schermafbeelding 2022-11-03 om 16 51 51" src="https://user-images.githubusercontent.com/90447045/199769495-10545494-8865-4a93-a258-ddbecbf478ae.png">
 
 ## Inhoudsopgave
 
@@ -18,6 +19,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
+Techstack 
+VUE
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
