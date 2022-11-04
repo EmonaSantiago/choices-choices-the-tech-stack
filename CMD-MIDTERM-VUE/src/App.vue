@@ -11,12 +11,16 @@ export default {
 <template>
    <!-- <h1>{{ message }}</h1> -->
     <header> 
-      <h1>CMD MIDTERM</h1>
+      <button onclick="window.location.href='';">
+          <h1>CMD MIDTERM</h1>
+        </button>
       <nav class="navigation">
-          <a href="./Detail.vue" class="">Beoogde leerresultaten</a>
-          <a href="#band" class="">Onderwijsleeromgeving</a>
-          <a href="#tour" class="">Toetsing</a>
-          <a href="#contact" class="">Gerealiseerde leerresultaten</a>
+        <button onclick="window.location.href='https://emonasantiago.github.io/tech-stack/';">
+          <a>Beoogde leerresultaten</a>
+        </button>
+          <a href="" class="">Onderwijsleeromgeving</a>
+          <a href="" class="">Toetsing</a>
+          <a href="" class="">Gerealiseerde leerresultaten</a>
         </nav>
       </header>
 
@@ -100,6 +104,21 @@ export default {
 
 </template>
 <style>
+
+button {
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+  }
+
+  button:hover {
+   border: 3px solid #fff021;
+  }
+
 
   body{
     color: black;
