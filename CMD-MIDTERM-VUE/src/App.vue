@@ -18,9 +18,15 @@ export default {
         <button onclick="window.location.href='https://emonasantiago.github.io/tech-stack/';">
           <a>Beoogde leerresultaten</a>
         </button>
-          <a href="" class="">Onderwijsleeromgeving</a>
-          <a href="" class="">Toetsing</a>
-          <a href="" class="">Gerealiseerde leerresultaten</a>
+        <button onclick="window.location.href='https://emonasantiago.github.io/tech-stack/';">
+          <a>Onderwijsleeromgeving</a>
+        </button>
+        <button onclick="window.location.href='https://emonasantiago.github.io/tech-stack/';">
+          <a>Toetsing</a>
+        </button>
+        <button onclick="window.location.href='https://emonasantiago.github.io/tech-stack/';">
+          <a>Gerealiseerde leerresultaten</a>
+        </button>
         </nav>
       </header>
 
