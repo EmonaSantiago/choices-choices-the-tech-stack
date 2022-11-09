@@ -4,6 +4,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # CMD-MIDTERM
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+De CMD-MIDTERM website geprobeert met Vue.
+
 <img width="500" alt="Schermafbeelding 2022-11-03 om 16 51 51" src="https://user-images.githubusercontent.com/90447045/199769495-10545494-8865-4a93-a258-ddbecbf478ae.png">
 
 ## Inhoudsopgave
@@ -16,16 +18,21 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-Techstack 
-VUE
+<img width="1440" alt="Schermafbeelding 2022-11-09 om 13 43 55" src="https://user-images.githubusercontent.com/90447045/200845684-092bf1f2-b228-46f1-9686-7178fed5f8b5.png">
+
+
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+🟣 Vue3
+🔵 Javascript
+🟢 Css
+🟡 Html
+
+🛠 VSC
 
 ## Installatie
+
 
 ## Gebruik
 
