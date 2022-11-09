@@ -25,18 +25,28 @@ De CMD-MIDTERM website geprobeert met Vue.
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 🟣 Vue3
+
 🔵 Javascript
+
 🟢 Css
+
 🟡 Html
 
 🛠 VSC
 
 ## Installatie
-
+https://cli.vuejs.org/guide/installation.html
 
 ## Gebruik
 
 ## Bronnen
+Bronnen 
+https://rapidapi.com/blog/how-to-use-an-api-with-vue-js/
+
+https://www.sharevalue.nl/blogs/svelte-en-sveltekit-nieuwe-spelers-in-het-front-end-landschap
+
+https://procoders.tech/blog/svelte-vs-vue-frameworks-comparison/#:~:text=The%20difference%20between%20Svelte%20and%20Vue%20is%20that%20the%20latter,having%20this%20option%20is%20great!
+
 
 ## Licentie
 
